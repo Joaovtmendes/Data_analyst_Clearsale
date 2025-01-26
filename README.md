@@ -1,5 +1,9 @@
 # Data Analysis ClearSale
 
+<p align="center">
+  <img width="60%" src="Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif" alt="Vídeo GIF">
+</p>
+
 ## Introduction:
 
 ClearSale is a leading Brazilian company that specializes in fraud prevention and financial solutions, particularly in the e-commerce sector. Founded in 2001, it has built a reputation for providing secure payment processing and fraud detection services to businesses across various industries, including retail, financial services, and telecommunications.
